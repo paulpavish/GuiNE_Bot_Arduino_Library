@@ -1,9 +1,10 @@
-  /*
+/*
   //   Title : MotorDriver.cpp
   //   Author : Paul Pavish
   //   Website : www.basicsexplained.com/creator
   //   YT Channel : https://www.youtube.com/channel/UCavN7aolUmBbfcKbDbydvMA
   //   LinkedIn : https://www.linkedin.com/in/paulpavish/
+  //   Project_Url : https://github.com/paulpavish/MotorDriver_GuiNE_Bot
   //
   //   Kindly attribute to Author on any marvelous project you come up with using this piece of code.
   //   Also show your support at my Youtube Channel. Thankyou.
@@ -53,3 +54,7 @@ class MotorDriver {
 
 
 #endif
+/*
+  //  END OF MotorDriver.cpp
+  //	Copyright (c) 2021 Paul Pavish.  All right reserved.
+*/
