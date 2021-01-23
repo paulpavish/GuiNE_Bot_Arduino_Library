@@ -1,5 +1,6 @@
 /*
-  //   Title : MotorDriver.cpp
+  //   Title : MotorDriver.h
+  //   Version : 1.0.0
   //   Author : Paul Pavish
   //   Website : www.basicsexplained.com/creator
   //   YT Channel : https://www.youtube.com/channel/UCavN7aolUmBbfcKbDbydvMA
@@ -55,6 +56,6 @@ class MotorDriver {
 
 #endif
 /*
-  //  END OF MotorDriver.cpp
+  //  END OF MotorDriver.h V.1.0.0
   //	Copyright (c) 2021 Paul Pavish.  All right reserved.
 */
