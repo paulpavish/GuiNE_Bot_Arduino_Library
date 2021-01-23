@@ -1,0 +1,43 @@
+#########################################################################################################
+#########################################################################################################
+  #   Title : MotorDriver/keywords.txt 
+  #   Author : Paul Pavish
+  #   Website : www.basicsexplained.com/creator
+  #   YT Channel : https://www.youtube.com/channel/UCavN7aolUmBbfcKbDbydvMA
+  #   LinkedIn : https://www.linkedin.com/in/paulpavish/
+  #
+  #   Kindly attribute to Author on any marvelous project you come up with using this piece of code.
+  #   Also show your support at my Youtube Channel. Thankyou.
+  #
+  #   Note : Syntax Coloring Map For MotorDriver Library
+  #
+  #   This library can configure & control the GuiN-E Bot V1.0 base motors.
+  #   This library can be used to control any dual h-bridge motor drivers like (L293D, L298N, etc.).
+  #
+  #  This library is purposefully constructed for easy future updation for upcoming GuiN-E Bot versions.
+
+	
+	# Copyright (c) 2021 Paul Pavish.  All right reserved.
+
+#########################################################################################################
+#########################################################################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MotorDriver	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+forward		KEYWORD2
+reverse		KEYWORD2
+halt		KEYWORD2
+turn_right	KEYWORD2
+turn_left	KEYWORD2
+diff_turn_forward	KEYWORD2
+diff_turn_reverse	KEYWORD2
+Control			KEYWORD2
+power_down		KEYWORD2
