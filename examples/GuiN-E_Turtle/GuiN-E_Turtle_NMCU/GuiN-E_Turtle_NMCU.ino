@@ -34,11 +34,11 @@
 const int16_t I2C_SLAVE = 0x08;
 
 //WiFi SSID & Password
-const char* ssid     = "p@v!5h_pr!5h@";
-const char* password = "2905&1910";
+const char* ssid     = "YOUR-SSID";
+const char* password = "YOUR-PASSWORD";
 
 //IP address of ROS Machine (Find using Find_IP.py in linux machine)
-IPAddress server(192, 168, 1, 5);
+IPAddress server(192, 168, 1, 1);
 
 //Setting the rosserial socket server port
 const uint16_t serverPort = 11411; //DO NOT CHANGE
