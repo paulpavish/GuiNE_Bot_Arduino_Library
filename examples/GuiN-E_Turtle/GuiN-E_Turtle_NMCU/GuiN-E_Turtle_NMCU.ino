@@ -4,6 +4,7 @@
   //   Website : www.basicsexplained.com/creator
   //   YT Channel : https://www.youtube.com/channel/UCavN7aolUmBbfcKbDbydvMA
   //   LinkedIn : https://www.linkedin.com/in/paulpavish/
+  //   Project : http://basicsexplained.com/guin-e-bot/
   //
   //   Kindly attribute to Author on any marvelous project you come up with using this piece of code.
   //   Also show your support at my Youtube Channel. Thankyou.
