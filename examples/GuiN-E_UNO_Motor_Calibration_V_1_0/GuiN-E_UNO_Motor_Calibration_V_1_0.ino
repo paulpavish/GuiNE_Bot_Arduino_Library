@@ -41,7 +41,7 @@
 MotorDriver Base(SpeedPin, LeftCtrl_A, LeftCtrl_B, RightCtrl_A, RightCtrl_B);
 
 //Defining Same Speed Value for both motors
-#define SpeedVal 127
+#define SpeedVal 60
 #define MinSpeedVal 25
 #define MaxSpeedVal 215
 
@@ -82,13 +82,13 @@ void loop() {
     delay(1000);
     //Turn Left
     Base.turn_left(SpeedVal);
-    delay(2000);
+    delay(500);
     //halt and be ready for next command
     Base.halt(MinSpeedVal);
     delay(1000);
     //Turn Right
     Base.turn_right(SpeedVal);
-    delay(2000);
+    delay(500);
     //halt and be ready for next command
     Base.halt(MinSpeedVal);
     delay(1000);
