@@ -14,7 +14,7 @@
   #   This library can configure & control the GuiN-E Bot V1.0 base motors.
   #   This library can be used to control any dual h-bridge motor drivers like (L293D, L298N, etc.).
   #
-  #  This library is purposefully constructed for easy future updation for upcoming GuiN-E Bot versions.
+  #  This library is purposefully constructed for easy future updation for upcoming GuiN E Bot versions.
 
 	
 	# Copyright (c) 2021 Paul Pavish.  All right reserved.
